@@ -1,0 +1,17 @@
+.top-header {
+    background: #e8eaeb;
+    min-height: 0px; 
+    border-color: transparent;
+}
+
+.top-nav {
+    margin: -7px;
+}
+
+.nav-item {
+    color: #819192;
+}
+
+.nav-item:hover {
+    color: #6EBB1F;
+}
